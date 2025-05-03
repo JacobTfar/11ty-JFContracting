@@ -27,7 +27,8 @@
     "@kickstartds/base": "^4.0.2",
     "@kickstartds/blog": "^4.0.2",
     "@kickstartds/core": "^4.0.2",
-    "@kickstartds/ds-agency": "^3.6.17"
+    "@kickstartds/ds-agency": "^3.6.17",
+    "esbuild": "^0.25.3"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
@@ -36,7 +37,7 @@
     "@kickstartds/eleventy-plugin-kickstartds": "^0.0.9",
     "@types/node": "^18.16",
     "@types/react": "^18.2.22",
-    "netlify-cli": "^17.5.1",
+    "netlify-cli": "^20.1.1",
     "netlify-plugin-checklinks": "^4.1.1",
     "prettier": "^3.0.3",
     "typescript": "^5.2.2"
